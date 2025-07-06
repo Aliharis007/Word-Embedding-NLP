@@ -1,8 +1,3 @@
-Absolutely, Ali! Below is your **ready-to-copy `README.md` file** in a single, clean format. Just copy it and paste it directly into your repo — you're good to go 🚀
-
----
-
-````markdown
 # 🔤 Word Embedding Exploration: One-Hot vs GloVe
 
 This NLP mini-project explores how machines understand words using **sparse vs. dense** vector representations. We compare basic **One-Hot Encoding** with powerful pre-trained **GloVe embeddings**, and visualize word similarity using **cosine similarity heatmaps**.
