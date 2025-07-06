@@ -136,7 +136,7 @@ queen → [-0.3924, 0.1532, ..., 0.4183]
 ```
 📁 Word-Embedding-NLP/
 │
-├── mai  n.py                  # Main Python script
+├── main.py                  # Main Python script
 ├── glove.6B.100d.txt        # GloVe vectors (download manually)
 ├── glove_similarity_heatmap.png   # Optional output screenshot
 ├── requirements.txt         # Python dependencies
